@@ -1,5 +1,3 @@
-# Titre du Projet :
-
 # Gestion des données d’une université.
 
 ### Description :
